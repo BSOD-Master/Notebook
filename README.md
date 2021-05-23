@@ -13,7 +13,9 @@ More info will be available as I work on this project more.
 
 ## Installation
 ### Method 1:
-Download the executable from the releases section
+1. Download and install the .NET framework 5.0
+2. Download the executable from the releases section
 
 ### Method 2:
-Open your Visual Studio 2019 and build the project
+1. Download and install the .NET framework 5.0
+2. Open your Visual Studio 2019 and build the project
