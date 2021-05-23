@@ -1,2 +1,3 @@
 # Notebook
-A simple C# program to control your notes
+This repository is not finished
+
